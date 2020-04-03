@@ -1,6 +1,6 @@
 ---
 lang: es-ES
-toc: true
+toc: True
 ---
 
 # Parámetros geométricos
