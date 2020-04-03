@@ -1,5 +1,6 @@
 ---
 lang: es-ES
+toc: true
 ---
 
 # Parámetros geométricos
